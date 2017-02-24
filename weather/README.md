@@ -85,21 +85,20 @@ node cli.js --help
 ```
 
 `
- Check the weather for your city from your terminal<return>
- <return>
-  Usage<return>
-    $ weather <input><return>
-  <return>
-  Options<return>
-    city [Default: Dhaka]<return>
-    country [Default: Bangladesh]<return>
-    scale (C/F) [Default: Celcius]<return>
-
-  Examples<return>
-    $ weather London UK C<return>
-    London, UK<return>
-    Condition: Partly Cloudy<return>
-    Temperature: 32C
+Check the weather for your city from your terminal<return>
+<return>
+Usage<return>
+$ weather <input>
+Options<return>
+city [Default: Dhaka]<return>
+country [Default: Bangladesh]<return>
+scale (C/F) [Default: Celcius]<return>
+<return>
+Examples<return>
+$ weather London UK C<return>
+London, UK<return>
+Condition: Partly Cloudy<return>
+Temperature: 32C
 `
 
 
