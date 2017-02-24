@@ -49,13 +49,11 @@ cd ./weather
 ```sh
 node cli.js
 ```
-`
+```
 Dhaka, Bangladesh
-
 Condition: Clear
-
 Temperature: 22C
-`
+```
 
 By default the program gives the weather of Dhaka, Bangladesh in celcius. 
 
@@ -64,13 +62,11 @@ If we want another town, write then the name and the country of the town. For ex
 node cli.js Chauvigné France
 ```
 
-`
+```
 Chauvigné, France
-
 Condition: Partly Cloudy
-
 Temperature: 9C
-`
+```
 
 Warning: don't forget the capital letters of the names.
 
@@ -78,14 +74,11 @@ If we want the temperature to be in Farenheit, write F after the country name. F
 ```sh
 node cli.js Chauvigné France F
 ```
-
-`
+```
 Chauvigné, France
-
 Condition: Partly Cloudy
-
 Temperature: 49F
-`
+```
 
 
 If you want help from the program, use the command:
@@ -96,26 +89,16 @@ node cli.js --help
 ```
 Check the weather for your city from your terminal
 Usage
-
 $ weather <input>
-
 Options
-
 city [Default: Dhaka]
-
 country [Default: Bangladesh]
-
 scale (C/F) [Default: Celcius]
 
-
 Examples
-
 $ weather London UK C
-
 London, UK
-
 Condition: Partly Cloudy
-
 Temperature: 32C
 ```
 
