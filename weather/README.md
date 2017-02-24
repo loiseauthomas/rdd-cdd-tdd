@@ -93,9 +93,8 @@ If you want help from the program, use the command:
 node cli.js --help
 ```
 
-`
+```
 Check the weather for your city from your terminal
-
 Usage
 
 $ weather <input>
@@ -118,7 +117,7 @@ London, UK
 Condition: Partly Cloudy
 
 Temperature: 32C
-`
+```
 
 
 ## Licence
